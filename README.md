@@ -6,10 +6,9 @@ Java programs from school and personal practice
 
 This project implements the Caesar Cipher encryption technique in Java.
 
-## Features
+ Features
 - Encrypts text using a shift value
 - Demonstrates string and character manipulation
 - Beginner-friendly cryptography project
 
-## Language
-Java
+
