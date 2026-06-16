@@ -16,8 +16,8 @@ This project implements the Caesar Cipher encryption technique in Java.
 
 A Java program that accepts an even number between 9 and 50 and displays all prime pairs whose sum equals the given number.
 Features
--Input validation
--Methods
--Loops
--Prime number logic
--Mathematical problem solving
+- Input validation
+- Methods
+- Loops
+- Prime number logic
+- Mathematical problem solving
