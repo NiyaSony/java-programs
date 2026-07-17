@@ -12,7 +12,7 @@ This project implements the Caesar Cipher encryption technique in Java.
 - Beginner-friendly cryptography project
 
 
-## 2 Goldbach's Conjecture
+## 2.Goldbach's Conjecture
 
 A Java program that accepts an even number between 9 and 50 and displays all prime pairs whose sum equals the given number.
 
