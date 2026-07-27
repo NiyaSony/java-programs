@@ -3,7 +3,9 @@ public class circularprime
 {
    int N;
    Scanner sc = new Scanner(System.in);
-    public void main()
+   
+   
+   public void main()
     {
         System.out.print("INPUT : \nN = ");
         N=sc.nextInt();
@@ -27,7 +29,9 @@ public class circularprime
         else
         System.out.println(st+" IS NOT A CIRCULAR PRIME");
     }
-    public boolean prime(int x)
+   
+   
+   public boolean prime(int x)
     {
         int f=0;
         for(int i=1;i<=(x/2);i++)
